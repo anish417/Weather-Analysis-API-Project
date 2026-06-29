@@ -1,0 +1,8 @@
+City,Temperature,Humidity,Wind Speed,Pressure,Cloud Cover,UV Index,Feels Like,Date
+Hyderabad,32.3,56,22.3,,,,,
+Delhi,12.8,97,15.8,,,,,
+Mumbai,30.1,79,12.6,,,,,
+Chennai,36.3,57,15.8,,,,,
+Bangalore,28.4,70,21.2,,,,,
+Bangalore,28.4,70,21.2,1013.0,50.0,11.0,31.6,
+Bangalore,28.4,70,21.2,1013.0,50.0,11.0,,2026-06-28 07:29:20.700897
